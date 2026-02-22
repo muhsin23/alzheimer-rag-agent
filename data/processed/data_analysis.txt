@@ -1,0 +1,26 @@
+=== Alzheimer's Research Articles Dataset Analysis ===
+
+Total articles collected: 75
+
+Articles by source:
+  pubmed: 75
+
+Articles by publication year:
+  2025: 3
+  2026: 72
+
+Average abstract length: 1010.89 characters
+Average title length: 126.00 characters
+Unique journals: 38
+
+Top 10 journals by article count:
+  Biochemical and biophysical research communications: 5
+  Inflammopharmacology: 4
+  European journal of medicinal chemistry: 4
+  Molecular therapy. Nucleic acids: 4
+  Cell reports: 3
+  npj aging: 3
+  Alzheimer's & dementia (New York, N. Y.): 3
+  Iranian journal of pharmaceutical research : IJPR: 3
+  The American journal of Chinese medicine: 3
+  Neurochemical research: 3

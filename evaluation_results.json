@@ -1,0 +1,112 @@
+[
+  {
+    "query": "What are potential targets for Alzheimer disease treatment?",
+    "expected_answer": "Should contain keywords: BACE1, tau, amyloid, gamma-secretase, therapeutic",
+    "actual_answer": "Based on the available Alzheimer's research, here's what I found about 'What are potential targets for Alzheimer disease treatment?':\n\nResearch from 'Exploration of the pharmacological mechanism of Evodia rutaecarpa on esophageal cancer based on comprehensive analysis of compounds and disease targets.' indicates:\n\"evodia rutaecarpa a traditional chinese medicine tcm possesses high medicinal value and has shown great potential in the treatment of tumors and alzheimer s disease however its active components again...\"\n\nThis information is based on current scientific literature. For medical advice, please consult healthcare professionals.",
+    "sources_found": 3,
+    "confidence": 0.9157691400426379,
+    "relevance_score": 0.0,
+    "precision": 0.0,
+    "recall": 0.2,
+    "f1_score": 0.0
+  },
+  {
+    "query": "How does Alzheimer disease progress?",
+    "expected_answer": "Should contain keywords: progressive, cognitive, memory, pathology, stages",
+    "actual_answer": "Based on the available Alzheimer's research, here's what I found about 'How does Alzheimer disease progress?':\n\nResearch from 'Assessing the repurposing potential of disease-modifying antirheumatic drug targets to reduce Alzheimer's disease risk: a Mendelian randomization study.' indicates:\n\"systemic inflammation plays a key role in the development and progression of alzheimer s disease ad however the repurposing potential of select anti inflammatory drug targets for ad treatment remains ...\"\n\nThis information is based on current scientific literature. For medical advice, please consult healthcare professionals.",
+    "sources_found": 3,
+    "confidence": 0.8454872310751127,
+    "relevance_score": 0.0,
+    "precision": 0.0,
+    "recall": 0.2,
+    "f1_score": 0.0
+  },
+  {
+    "query": "What causes memory loss in Alzheimer disease?",
+    "expected_answer": "Should contain keywords: amyloid, tau, plaques, tangles, neurons",
+    "actual_answer": "Based on the available Alzheimer's research, here's what I found about 'What causes memory loss in Alzheimer disease?':\n\nResearch from 'Neuroprotective Mechanisms of Ficus deltoidea in an Alzheimer's Disease-Like Rat Model: Targeting Tau Hyperphosphorylation Through Glycogen Synthase Kinase-3 Beta and Protein Phosphatase 2A Regulation.' indicates:\n\"alzheimer s disease ad is a progressive neurodegenerative disorder characterised by memory loss neurodegeneration amyloid plaque accumulation and tau hyperphosphorylation dysregulation of glycogen syn...\"\n\nThis information is based on current scientific literature. For medical advice, please consult healthcare professionals.",
+    "sources_found": 3,
+    "confidence": 0.7698442925400188,
+    "relevance_score": 0.4,
+    "precision": 0.4,
+    "recall": 0.6000000000000001,
+    "f1_score": 0.4800000000000001
+  },
+  {
+    "query": "What are biomarkers for Alzheimer disease?",
+    "expected_answer": "Should contain keywords: CSF, PET, amyloid-beta, tau, diagnosis",
+    "actual_answer": "Based on the available Alzheimer's research, here's what I found about 'What are biomarkers for Alzheimer disease?':\n\nResearch from 'Biomarkers in Alzheimer's disease clinical trials: 2025.' indicates:\n\"biomarkers play an important role in alzheimer s disease ad clinical trials in several contexts of use including defining trial eligibility and serving as outcome measures utilizing clinicaltrials gov...\"\n\nThis information is based on current scientific literature. For medical advice, please consult healthcare professionals.",
+    "sources_found": 3,
+    "confidence": 0.7497357890794893,
+    "relevance_score": 0.0,
+    "precision": 0.0,
+    "recall": 0.2,
+    "f1_score": 0.0
+  },
+  {
+    "query": "What is the role of genetics in Alzheimer disease?",
+    "expected_answer": "Should contain keywords: APOE, genetic, risk, familial, mutations",
+    "actual_answer": "Based on the available Alzheimer's research, here's what I found about 'What is the role of genetics in Alzheimer disease?':\n\nResearch from 'Assessing the repurposing potential of disease-modifying antirheumatic drug targets to reduce Alzheimer's disease risk: a Mendelian randomization study.' indicates:\n\"systemic inflammation plays a key role in the development and progression of alzheimer s disease ad however the repurposing potential of select anti inflammatory drug targets for ad treatment remains ...\"\n\nThis information is based on current scientific literature. For medical advice, please consult healthcare professionals.",
+    "sources_found": 3,
+    "confidence": 0.7682252076304454,
+    "relevance_score": 0.4,
+    "precision": 0.4,
+    "recall": 0.6000000000000001,
+    "f1_score": 0.4800000000000001
+  },
+  {
+    "query": "What lifestyle factors affect Alzheimer disease risk?",
+    "expected_answer": "Should contain keywords: diet, exercise, lifestyle, prevention, risk factors",
+    "actual_answer": "Based on the available Alzheimer's research, here's what I found about 'What lifestyle factors affect Alzheimer disease risk?':\n\nResearch from 'Detection, imaging and quantification of phosphoinositides using ion chromatography suppressed conductivity and mass spectrometry imaging.' indicates:\n\"phosphoinositide lipids have been implicated in aging health and disease prior studies have identified enzymes critical for lipid metabolism such as synthetic and degrading enzymes which have differen...\"\n\nThis information is based on current scientific literature. For medical advice, please consult healthcare professionals.",
+    "sources_found": 3,
+    "confidence": 0.8541198498128099,
+    "relevance_score": 0.2,
+    "precision": 0.2,
+    "recall": 0.4,
+    "f1_score": 0.26666666666666666
+  },
+  {
+    "query": "What immunotherapy approaches exist for Alzheimer disease?",
+    "expected_answer": "Should contain keywords: antibodies, immunotherapy, aducanumab, lecanemab, vaccines",
+    "actual_answer": "Based on the available Alzheimer's research, here's what I found about 'What immunotherapy approaches exist for Alzheimer disease?':\n\nResearch from 'Role Shift of Glial Cells from Physiology to Pathology in Alzheimer's Disease: The Regulatory Impact of Exercise.' indicates:\n\"alzheimer s disease ad is a widespread neurodegenerative condition with cognitive and behavioral decline astrocytes and microglia the primary glial cells in the central nervous system are deeply invol...\"\n\nThis information is based on current scientific literature. For medical advice, please consult healthcare professionals.",
+    "sources_found": 3,
+    "confidence": 0.729078425802953,
+    "relevance_score": 0.2,
+    "precision": 0.2,
+    "recall": 0.4,
+    "f1_score": 0.26666666666666666
+  },
+  {
+    "query": "What is neuroinflammation in Alzheimer disease?",
+    "expected_answer": "Should contain keywords: microglia, inflammation, TREM2, NLRP3, neuroinflammation",
+    "actual_answer": "Based on the available Alzheimer's research, here's what I found about 'What is neuroinflammation in Alzheimer disease?':\n\nResearch from 'Mitochondrial oxidative stress to PANoptosis: Current evidence and therapeutic implications for neurological diseases.' indicates:\n\"mitochondrial oxidative stress is a key driver of neurological diseases such as alzheimer s disease parkinson s disease and spinal cord injury promoting neuronal dysfunction and degeneration through m...\"\n\nThis information is based on current scientific literature. For medical advice, please consult healthcare professionals.",
+    "sources_found": 3,
+    "confidence": 0.7551203468092915,
+    "relevance_score": 0.4,
+    "precision": 0.4,
+    "recall": 0.6000000000000001,
+    "f1_score": 0.4800000000000001
+  },
+  {
+    "query": "What are synaptic changes in Alzheimer disease?",
+    "expected_answer": "Should contain keywords: synaptic, plasticity, glutamate, neurotransmission, dysfunction",
+    "actual_answer": "Based on the available Alzheimer's research, here's what I found about 'What are synaptic changes in Alzheimer disease?':\n\nResearch from 'Amyloid Beta Oligomers as Early Triggers of Neuronal Cytoskeleton Dysfunction in Alzheimer's Disease.' indicates:\n\"alzheimer s disease ad is characterized by progressive cognitive decline with amyloid beta oligomers a os emerging as the most neurotoxic species and acting as early triggers of cellular alterations b...\"\n\nThis information is based on current scientific literature. For medical advice, please consult healthcare professionals.",
+    "sources_found": 3,
+    "confidence": 0.7363427299126758,
+    "relevance_score": 0.4,
+    "precision": 0.4,
+    "recall": 0.6000000000000001,
+    "f1_score": 0.4800000000000001
+  },
+  {
+    "query": "What drug repurposing strategies exist for Alzheimer disease?",
+    "expected_answer": "Should contain keywords: repurposing, metformin, GLP-1, diabetes, existing drugs",
+    "actual_answer": "Based on the available Alzheimer's research, here's what I found about 'What drug repurposing strategies exist for Alzheimer disease?':\n\nResearch from 'Unraveling Network Pharmacology-Based Therapeutics of Anthranilate Sulfonamides via Sirtuins/FOXO3a Cascade in Alzheimer's Disease.' indicates:\n\"sulfonamide based compounds have been a clinically attractive scaffold for drug development and proven as antioxidant and antimicrobial agents but their pharmacological derivatives containing anthrani...\"\n\nThis information is based on current scientific literature. For medical advice, please consult healthcare professionals.",
+    "sources_found": 3,
+    "confidence": 0.784908784047287,
+    "relevance_score": 0.2,
+    "precision": 0.2,
+    "recall": 0.4,
+    "f1_score": 0.26666666666666666
+  }
+]
